@@ -9,6 +9,10 @@
   "bugs": {
     "url": "https://github.com/creativetimofficial/vue-argon-dashboard/issues"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/creativetimofficial/vue-argon-dashboard.git"
+  },
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
